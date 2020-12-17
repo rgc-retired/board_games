@@ -1,0 +1,1 @@
+@start wish launcher.tcl
